@@ -1,7 +1,7 @@
 # Solana Sniper Bot
 
 This Solana Sniper Bot snipes new token pairs based on customizable filters. The bot allows you to automate the buying process of new tokens on the Solana blockchain with specific conditions to avoid rug pulls and other risks.
-
+Snipe all fresh new pairs in two clicks.
 
 **TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
 
