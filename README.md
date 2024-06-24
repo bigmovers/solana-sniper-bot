@@ -5,7 +5,13 @@ This Solana Sniper Bot snipes new token pairs based on customizable filters. The
 Snipe all fresh new pairs in two clicks.
 
 
-**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benoriz0](https://t.me/benoriz0)
+
+https://github.com/bigmovers/solana-sniper-bot/assets/165174061/06287e80-08aa-43b3-90f0-2443ccb36a7d
+
+
+
+
+**TELEGRAM** for contact & **POC**(Proof of Concept) & **VOUCHES**: [@benorizz0](https://t.me/benorizz0)
 
 Support in running the tool is included in the price.
 
@@ -63,7 +69,7 @@ TOKEN_SYMBOL_FILTER="BONK" # Token symbol to filter snipe list
 CHECK_TOKEN_SYMBOL=false
 ```
 
-### Telegram integration and auto-sell strategy using Trading Bot like [trojanbot](https://t.me/hector_trojanbot?start=r-benoriz0)
+### Telegram integration and auto-sell strategy using Trading Bot like [trojanbot](https://t.me/hector_trojanbot?start=r-benorizz0)
 ```ini
 TG_API_ID=
 TG_API_HASH=
